@@ -34,7 +34,7 @@ Replacement Rule: "search phrase" "replacement phrase"
 
 Removal Rule: "wordOrPhraseToRemove" ""
 
-For example: "WEBRip" "" "(" "" ")" "" "YTS MX" ""
+For example: "DELETEME" "" "(" "" ")"
 
 You can add additional entries as needed.
 Usage:
