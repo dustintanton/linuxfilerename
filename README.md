@@ -23,10 +23,8 @@ Requirements:
 
 • Linux-based operating system. • Bash shell (version 4 or later recommended). • Standard Linux utilities (sed, mv, find, etc.). • Optional: dos2unix for converting Windows line endings if necessary.
 Installation:
-
     Clone or download the repository containing this script.
-
-    Ensure the script has execute permissions by running: chmod +x rename2.sh
+    Ensure the script has execute permissions by running: chmod +x rename.sh
 
 Configuration:
 
